@@ -1,0 +1,17 @@
+#myhome{
+    background-color:grey;
+    width: 50%;
+    height: 50vh;
+  
+}
+#yourhome{
+          position: absolute;
+        top:300px;
+        right:600px;
+        left:600px;
+        bottom:300px;
+        background-color:black;
+
+        
+}
+      
